@@ -1,0 +1,1 @@
+Dummy Car API for testing and development purposes. Provides endpoints to simulate functionalities like adding, updating, retrieving, and deleting car data. Ideal for projects requiring a mock backend for car-related applications.
